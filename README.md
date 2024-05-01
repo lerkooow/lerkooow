@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmM0aWN4ZGNndGs2ejBmMGh3MGZwdmQ0Yjc5OGo4NjVpcGFwZ25yMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="www.linkedin.com/in/valeriia-akhmatova-1843a2272">
+  <a href="https://www.linkedin.com/in/valeriia-akhmatova-1843a2272/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
