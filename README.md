@@ -10,7 +10,7 @@
 ---
 ### :woman_technologist: About Me :
 I am a Frontend Developer.
-- Hi! I'm Valeria, I'm 21 years old. I've been passionately studying frontend development for over a year now. I enjoy creating beautiful and user-friendly web applications. Every day, I strive to learn something new to make my projects even better.
+- Hi! I'm Valeria, I'm 22 years old. I've been passionately studying frontend development for over a year now. I enjoy creating beautiful and user-friendly web applications. Every day, I strive to learn something new to make my projects even better.
 ---
 ### :hammer_and_wrench: Languages and Tools :
 
